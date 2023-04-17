@@ -1,0 +1,16 @@
+.side-nav {
+    height: 100vh;
+}
+
+.sidemenu-links li a {
+    text-decoration: none;
+    color: black;
+}
+
+.side-menu-active {
+    background-color: #6c757d;
+}
+
+.side-menu-active a {
+    color: white !important;
+}
